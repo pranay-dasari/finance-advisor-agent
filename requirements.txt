@@ -1,0 +1,7 @@
+langgraph>=1.0
+langchain-core
+langchain-anthropic
+pydantic>=2
+pytest
+streamlit
+pandas
